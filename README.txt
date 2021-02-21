@@ -19,5 +19,5 @@ How to run:
 Run the server like descriped above.
 
 Users: connect to the server and use the same port as the server
--- telnet localhost <port> --		
+-- telnet localhost <port> -- (in Linux terminal)		
 ------------------
