@@ -1,8 +1,7 @@
 README
 Name: Harel Madmoni
-Id: 203382080
 
-Exercise 4 - Chat server with select
+Chat server with select
 
 The program will manage a chat server between users.
 
